@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Mashrukh Rashid`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mashrukh Rashid`,
+      summary: `, nice to meet you.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://mashrukh.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `MashrukhRashid`,
     },
   },
   plugins: [
