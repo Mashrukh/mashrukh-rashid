@@ -1,12 +1,17 @@
 ---
 title: Big Data, Little Data
-date: "2015-05-01T22:12:03.284Z"
-description: "How do we choose how to store our information in a growing world of data."
+date: "2021-06-25T22:12:03.284Z"
+description: "How do we store our information in a growing world of data."
 ---
 
-This is my first post on my new fake blog! How exciting!
+When designing a software application, we often need to think about how we
+will persist information. Usually we want to store information to show our users at a later time, or store user information.
 
-I'm sure I'll write a lot more interesting things in the future.
+In our current day and age, we have many options to choose from on how we decide to store our data.
+We oftern hear the terminologies SQL database, NoSQL, In Memory Storage, Object Storage, Block Storage, and many others.
+Our jobs as engineers is to determine which type of storage would best suite our application, and this may feel overwhelming at first.
+
+I hope to make that process at least a little bit easier.
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).

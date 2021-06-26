@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Working in a Distracted World
+date: "2014-05-28T22:40:32.169Z"
+description: As we have more and more distractions around us, its getting harder to focus on whats important to us.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
